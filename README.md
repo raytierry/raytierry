@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Tierry Ray
 
-<!--
-**raytierry/raytierry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer at Nubank**, focused on building scalable, high-quality products and great user experiences.
 
-Here are some ideas to get you started:
+I have strong experience working with modern web technologies, product-driven engineering, and collaborative teams.  
+This GitHub serves as my technical portfolio, where I share selected projects and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Brazil  
+🌐 Website: https://tierryray.dev  
+💼 LinkedIn: https://linkedin.com/in/tierry-ray  
+
+---
+
+## 🚀 About Me
+
+I'm a software engineer with a strong background in frontend and full-stack development.  
+I care deeply about code quality, maintainability, performance, and delivering real business value.
+
+Currently working at **Nubank**, contributing to large-scale, high-impact systems.
+
+👉 Learn more in [about.md](about.md)
+
+---
+
+## �

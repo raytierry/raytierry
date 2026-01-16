@@ -17,9 +17,3 @@ I'm a software engineer with a strong background in frontend and full-stack deve
 I care deeply about code quality, maintainability, performance, and delivering real business value.
 
 Currently working at **Nubank**, contributing to large-scale, high-impact systems.
-
-👉 Learn more in [about.md](about.md)
-
----
-
-## �
